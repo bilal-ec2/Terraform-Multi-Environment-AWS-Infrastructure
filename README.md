@@ -1,4 +1,5 @@
 # Terraform-Multi-Environment-AWS-Infrastructure
+<img width="1645" height="807" alt="image" src="https://github.com/user-attachments/assets/15fcf2e7-15bf-4d1d-8f23-b7fd9bc66fbf" />
 
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/cc4344b7-7126-4407-ba21-d1d6099bb930" />
 
